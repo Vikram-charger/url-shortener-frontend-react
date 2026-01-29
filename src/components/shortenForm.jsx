@@ -41,7 +41,7 @@ export default function ShortenForm() {
 
     <h1 className="text-center">
   <span className="text-5xl font-extrabold text-gray-900">
-    🔗 Shorty
+    🔗 Littly
   </span>
   <span className="block mt-2 text-sm font-medium text-indigo-500">
     by Vikram
